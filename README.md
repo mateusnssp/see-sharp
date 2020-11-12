@@ -2,11 +2,7 @@
 
 ## Compilação dos programas
 
-A execução dos códigos `C#` é realizada na plataforma `.NET`. 
-
-A documentação `.NET` pode ser acessada [aqui](https://docs.microsoft.com/pt-br/dotnet/).
-
-Para utilizar o `.NET` por CLI, dê uma olhada neste artigo: [dotnet new](https://docs.microsoft.com/pt-br/dotnet/core/tools/dotnet-new).
+A execução dos códigos `C#` é realizada na plataforma `.NET`. A documentação `.NET` pode ser acessada [aqui](https://docs.microsoft.com/pt-br/dotnet/). Para utilizar o `.NET` por CLI, dê uma olhada neste artigo: [dotnet new](https://docs.microsoft.com/pt-br/dotnet/core/tools/dotnet-new).
 
 <br/>
 
