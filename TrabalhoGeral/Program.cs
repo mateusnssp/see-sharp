@@ -1,10 +1,8 @@
 ﻿using System;
 
-/*
- * Faça o programa imprimir "Olá =))" na tela;
+/* Faça o programa imprimir "Olá =))" na tela;
  * Faça o programa pegar dois números digitados pelo usuário e entregar a soma entre os mesmos; 
- * Faça o programa verificar e informar ao usuário se a soma, antes obtida, é par ou ímpar;
- */
+ * Faça o programa verificar e informar ao usuário se a soma, antes obtida, é par ou ímpar; */
 
 namespace TrabalhoGeral
 {
