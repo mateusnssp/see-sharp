@@ -2,7 +2,7 @@ using System;
 
 //Este programa imprime "Olá, mundo!" no console e caso receba algum argumento para a classe principal, imprime o mesmo.
 
-namespace HelloWorl
+namespace HelloWorld
 {
     class Program
     {
