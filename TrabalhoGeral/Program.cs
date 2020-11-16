@@ -14,7 +14,6 @@ namespace TrabalhoGeral
             {
                 case "S":
                     return true;
-                    break;
                 default:
                     return false;
             }
